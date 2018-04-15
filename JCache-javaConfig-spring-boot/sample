@@ -1,0 +1,29 @@
+
+
+using jcache with cdi
+
+How to generate keys for cache
+
+CacheKeyGenerator
+
+DefaultGeneratedCacheKey
+
+The Ehcache 3.x JSP 107 PROVIDER
+
+MULTIPLE CACHE PROVIDER ,SELECT ONE  DYNAMICALLY BY SPECIFYING THE PROVIDER NAME
+'
+
+CACHE  ABSTRACTION JSR 107 ANNOTATIONS
+
+
+jcache with ehcache java config
+
+DefaultGeneratedCachKey
+
+how hashmap works internally
+
+DefaultHystricGeneratedCacheKey
+
+
+
+
